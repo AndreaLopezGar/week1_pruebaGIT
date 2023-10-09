@@ -1,0 +1,13 @@
+{
+  "name": "week1",
+  "version": "1.0.0",
+  "description": "Week 1 Bootcamp",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrea López",
+  "license": "ISC"
+  }
+  
